@@ -3,11 +3,6 @@
 + para poder ser mas eficiente en la programacion haciendo lo mismo pero con menos lineas de codigo
 
 
-## Autores
-
-|  [<img src="/Your profile.html" width=115><br><sub> JADELKA </sub>](https://github.com/THEJADELKAFP) |
-| :---: |
-
 
 # Codigo de muestra
 + Asi es como se crea una ventana con la libreria windjdk
