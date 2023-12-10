@@ -25,7 +25,7 @@ boton = jdk.Boton(root.root, "BOTON XD", pepe)  # Accede a la ventana con root.r
 boton.CreateBoton()  # Llama a CreateBoton para mostrar el botón
 ```
 
-# Libreria necesarias
+## Libreria necesarias
 
 ```
 pip install tkinter
