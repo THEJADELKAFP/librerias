@@ -10,16 +10,13 @@
 
 
 # Codigo
++ asi es como se crea una ventana con la libreria windjdk
 
 ```python
 import windjdk as jdk
 
-def pepe():
-    print("pee")
-
 # Crear la instancia de la ventana
 root = jdk.Ventana("400x300", "jadelka", True)
-
 
 # Iniciar el bucle principal de tkinter
 root.root.mainloop()
