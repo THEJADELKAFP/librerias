@@ -4,7 +4,7 @@
 
 
 
-# Codigo de muestra
+## Codigo de muestra
 + Asi es como se crea una ventana con la libreria windjdk
 
 ```python
@@ -30,6 +30,6 @@ boton.CreateBoton()  # Llama a CreateBoton para mostrar el botón
 ```
 pip install tkinter
 ```
-```
-pip install tkinter
-```
+
+> proximamente
+
