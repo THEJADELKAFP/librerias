@@ -30,12 +30,15 @@ boton.CreateBoton()  # Llama a CreateBoton para mostrar el botón
 ```
 pip install tkinter
 ```
+## Metas y cosas hechas
 
 - [X] crear ventana facil
 - [X] crear botones facil
 - [ ] crear label facil
 - [ ] unir base de datos facil
 - [ ] crear graficas facil
+
+## Leer importante
 
 > [!NOTE]
 > esto es para faclitar mi creacion de aplicaciones de Desktop.
@@ -45,6 +48,8 @@ pip install tkinter
 
 > [!WARNING]
 > Necesitas tenes tkinter instalado globalmente en tu pc.
+
+##
 
 > proximamente
 
