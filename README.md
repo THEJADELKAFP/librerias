@@ -30,3 +30,6 @@ boton.CreateBoton()  # Llama a CreateBoton para mostrar el botón
 ```
 pip install tkinter
 ```
+```
+pip install tkinter
+```
