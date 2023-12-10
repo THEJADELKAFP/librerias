@@ -37,5 +37,14 @@ pip install tkinter
 - [ ] unir base de datos facil
 - [ ] crear graficas facil
 
+> [!NOTE]
+> esto es para faclitar mi creacion de aplicaciones de Desktop.
+
+> [!TIP]
+> opcional visita mi oagina web para mayor informacion sobre como funciona este libreria.
+
+> [!WARNING]
+> Necesitas tenes tkinter instalado globalmente en tu pc.
+
 > proximamente
 
