@@ -41,10 +41,10 @@ pip install tkinter
 ## Leer importante
 
 > [!NOTE]
-> esto es para faclitar mi creacion de aplicaciones de Desktop.
+> esto es para facilitar mi creacion de aplicaciones de Desktop.
 
 > [!TIP]
-> opcional visita mi oagina web para mayor informacion sobre como funciona este libreria.
+> opcional visita mi pagina web para mayor informacion sobre como funciona este libreria.
 
 > [!WARNING]
 > Necesitas tenes tkinter instalado globalmente en tu pc.
