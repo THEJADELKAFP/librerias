@@ -45,7 +45,7 @@ pip install tkinter
 
 > [!TIP]
 > opcional visita mi pagina web para mayor informacion sobre como funciona este libreria.
-> Esta es mi pagina web [JADELKA](.).
+> Esta es mi pagina web [JADELKA](jadelka).
 
 > [!WARNING]
 > Necesitas tenes tkinter instalado globalmente en tu pc.
