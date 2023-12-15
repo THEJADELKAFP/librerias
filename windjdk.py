@@ -16,3 +16,15 @@ class Boton:
     def CreateBoton(self):
         self.variable = tk.Button(self.root, text=self.text, command=self.command)
         self.variable.pack(pady=10)
+
+class Label:
+    def __init__(self, root,text: str,font: None, bg: str = 'white', fg: str = 'black') -> None:
+        self.root = root
+        self.text = text
+        self.font = font
+        self.bg = bg
+        self.fg = fg
+
+    def createLabel(self):
+        self.variablee = tk.Label(self.root, text=self.text, font=self.font, bg=self.bg, fg=self.fg)
+        self.variablee.pack()
