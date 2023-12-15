@@ -34,7 +34,7 @@ pip install tkinter
 
 - [X] crear ventana facil
 - [X] crear botones facil
-- [ ] crear label facil
+- [x] crear label facil
 - [ ] unir base de datos facil
 - [ ] crear graficas facil
 
