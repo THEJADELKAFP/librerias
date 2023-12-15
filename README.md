@@ -97,9 +97,6 @@ boton.CreateBoton()  # Llama a CreateBoton para mostrar el botón
 label = jdk.Label(root.root, text="jadelka", font="arial", fg="black")
 label.createLabel()
 
-label = jdk.Label(root.root, text="jadelka", font="arial", fg="black")
-label.createLabel()
-
 # Iniciar el bucle principal de tkinter
 root.root.mainloop()
 ```
