@@ -1,7 +1,5 @@
 import windjdk as jdk
 
-pepe = str("pepe")
-
 def pepe():
     print("pepe")
 
@@ -12,8 +10,8 @@ root = jdk.Ventana("400x400", "JADELKA", False)
 boton = jdk.Boton(root.root, "BOTON XD", pepe )  # Accede a la ventana con root.root
 boton.CreateBoton()  # Llama a CreateBoton para mostrar el botón
 
-label = jdk.Label(root.root, text="jadelka", font="arial", fg="black")
-label.createLabel()
+label = jdk.Label(root.root, text="jadelka", font="arial", fg="black") # Accede a la Label con root.root
+label.createLabel()  # Llama a CreateLbael para mostrar el Label
 
 label = jdk.Label(root.root, text="jadelka", font="arial", fg="black")
 label.createLabel()

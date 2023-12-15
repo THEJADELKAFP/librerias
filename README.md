@@ -84,8 +84,6 @@ ventana.mainloop()
 ```python
 import windjdk as jdk
 
-pepe = str("pepe")
-
 def pepe():
     print("pepe")
 
